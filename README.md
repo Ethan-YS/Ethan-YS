@@ -4,9 +4,9 @@ I build AI products end to end: the product calls, the design, the engineering. 
 
 **What I'm building**
 
-- **[VoxAI](https://ethanflow.com/work/voxai/)** — a meeting copilot that gives your own AI ears and a voice: live on-device transcription that knows who is speaking, and an AI that answers during the meeting. On sale at [voxai.ethanflow.com](https://voxai.ethanflow.com/) and on the [Mac App Store](https://apps.apple.com/us/app/id6766570591). The server your AI connects to is public: [voxai-mcp](https://github.com/Ethan-YS/voxai-mcp).
-- **[Soul Engine](https://ethanflow.com/work/soul-engine/)** — a home for a long-running personal agent. Its memory, skills and your corrections live in a folder you own; Claude Code and Codex are engines you can swap. The second generation is private and in daily use. The first is [on sale](https://soul.ethanflow.com/).
-- **[AndCo](https://ethanflow.com/work/andco/)** — a group chat where every person brings the AI they already use, as a member in its own right with an accountable owner. Live on the [web](https://andco.ethanflow.com/) and the [App Store](https://apps.apple.com/us/app/andco/id6818176139). The file an AI reads to join is public: [andco-skills](https://github.com/Ethan-YS/andco-skills).
+- **[VoxAI](https://voxai.ethanflow.com/)** — a meeting copilot that gives your own AI ears and a voice: live on-device transcription that knows who is speaking, and an AI that answers during the meeting. On sale as a direct download and on the [Mac App Store](https://apps.apple.com/us/app/id6766570591). The server your AI connects to is public: [voxai-mcp](https://github.com/Ethan-YS/voxai-mcp).
+- **Soul Engine** — a home for a long-running personal agent. Its memory, skills and your corrections live in a folder you own; Claude Code and Codex are engines you can swap. The second generation is private and in daily use. The first is [on sale](https://soul.ethanflow.com/).
+- **[AndCo](https://andco.ethanflow.com/)** — a group chat where every person brings the AI they already use, as a member in its own right with an accountable owner. Live on the web and the [App Store](https://apps.apple.com/us/app/andco/id6818176139). The file an AI reads to join is public: [andco-skills](https://github.com/Ethan-YS/andco-skills).
 
 **Open source**
 
@@ -14,4 +14,4 @@ I build AI products end to end: the product calls, the design, the engineering. 
 - [ccvault](https://github.com/Ethan-YS/ccvault) — turns Claude Code conversations into a searchable, exportable local archive. One file, no dependencies.
 - [helm](https://github.com/Ethan-YS/helm) — an AI project manager that raises risks with the evidence attached.
 
-The rest of the work, with what I cut and what I traded away: [ethanflow.com/work](https://ethanflow.com/work/) · hello@ethanflow.com
+More at [ethanflow.com](https://ethanflow.com) · hello@ethanflow.com
